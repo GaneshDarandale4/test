@@ -9,6 +9,7 @@ public class AzureEg2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(AzureEg2Application.class, args);
 		System.out.println("test");
+		test;
 	}
 
 }
